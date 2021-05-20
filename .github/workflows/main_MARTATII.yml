@@ -52,5 +52,5 @@ jobs:
       with:
         app-name: 'MARTATII'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_43fe68a98d9d4d10b89943f299830224 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_2a66017b639d482282036a0b66770b47 }}
         package: .
